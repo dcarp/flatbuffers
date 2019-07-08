@@ -1,0 +1,1 @@
+mixin template FlatField(ushort id, alias Type, string name, Type defaultValue, )
